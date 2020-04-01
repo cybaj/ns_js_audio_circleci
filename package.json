@@ -11,6 +11,7 @@
   "dependencies": {
     "@nativescript/theme": "~2.3.0",
     "nativescript-audio": "^5.0.5",
+    "nativescript-remote-builds": "^1.1.0",
     "tns-core-modules": "~6.4.0"
   },
   "devDependencies": {
