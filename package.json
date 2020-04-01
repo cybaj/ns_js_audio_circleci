@@ -1,0 +1,21 @@
+{
+  "nativescript": {
+    "id": "org.nativescript.MyAudioOldV",
+    "tns-android": {
+      "version": "6.4.1"
+    }
+  },
+  "description": "NativeScript Application",
+  "license": "LICENSE",
+  "repository": "https://github.com/cybaj/ns_js_audio_circleci",
+  "dependencies": {
+    "@nativescript/theme": "~2.3.0",
+    "nativescript-audio": "^5.0.5",
+    "tns-core-modules": "~6.4.0"
+  },
+  "devDependencies": {
+    "nativescript-dev-webpack": "~1.5.0"
+  },
+  "gitHead": "d8bdf0799a219051f28f8abd7c258d2bf2fce6e1",
+  "readme": "NativeScript Application"
+}
